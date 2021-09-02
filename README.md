@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manoellion
-- 👀 I’m interested in  desenvolvedor web
-- 🌱 I’m currently learning  js e python
-- 💞️ I’m looking to collaborate on ...
+ 👀 I’m interested in  desenvolvolvimento web
+- 🌱 I’m currently learning  js e python  
+- 💞️ I’m looking to collaborate on ...       
 - 📫 How to reach me  manoelgmf@hotmail.com
 
 <!---
