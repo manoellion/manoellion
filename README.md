@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @manoellion
- 👀 I’m interested in  desenvolvolvimento web
+,- 👋 Hi, I’m @manoellion, sou estudande do IFRN, cursando TSI- 3°periodo
+ 👀 I’m interested in  desenvolvolvimento web  
 - 🌱 I’m currently learning  js e python  
 - 💞️ I’m looking to collaborate on ...       
 - 📫 How to reach me  manoelgmf@hotmail.com
